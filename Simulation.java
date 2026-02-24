@@ -46,7 +46,7 @@ public class Simulation {
         double pushPct = (pushes * 100.0) / numGames;
         
         // Print results with nice formatting
-        System.out.println("\n📊 SIMULATION: " + numGames + " GAMES");
+        System.out.println("\n SIMULATION: " + numGames + " GAMES");
         System.out.println("-" .repeat(40));
         System.out.printf("Player wins:  %6d  (%5.2f%%)\n", playerWins, playerWinPct);
         System.out.printf("Dealer wins:  %6d  (%5.2f%%)\n", dealerWins, dealerWinPct);
