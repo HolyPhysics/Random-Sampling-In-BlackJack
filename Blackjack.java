@@ -212,7 +212,7 @@ public class Blackjack{
         int pushScore = 0;
 
         for (int i = 0; i < 3; i++){ // Plays the required 3 games
-            int result = game.game(true); // I don't want all the game states and initial and fnal hands to be displayed 
+            int result = game.game(false); // I don't want all the game states and initial and fnal hands to be displayed 
 
             if (result == 1){
                 playerScore +=1;
