@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.Random; // import Java's Random class
 
 public class Deck {
 
@@ -21,7 +21,7 @@ public class Deck {
     public void build() {
 
         // create four cards each of values between 2 and 9
-        for (int values =2; values <=9; values++){
+        for (int values = 2; values <=9; values++){
             for (int counter =0; counter < 4; counter++){
                 Card card = new Card(values); // creates one instance of the desired card to be added to the deck
                 deck.add(card);

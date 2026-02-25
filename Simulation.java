@@ -47,7 +47,7 @@ public class Simulation {
         
         // Print results with nice formatting
         System.out.println("\n SIMULATION: " + numGames + " GAMES");
-        System.out.println("-" .repeat(40));
+        // System.out.println("-" .repeat(40));
         System.out.printf("Player wins:  %6d  (%5.2f%%)\n", playerWins, playerWinPct);
         System.out.printf("Dealer wins:  %6d  (%5.2f%%)\n", dealerWins, dealerWinPct);
         System.out.printf("Pushes:       %6d  (%5.2f%%)\n", pushes, pushPct);
@@ -57,3 +57,5 @@ public class Simulation {
         assert playerWins + dealerWins + pushes == numGames : "Game count mismatch!";
     }
 }
+
+

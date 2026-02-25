@@ -1,0 +1,77 @@
+======= Playing 3 Games ======
+Starting new game... Get Ready.
+
+Initial Hands: 
+==== Blackjack Game State ==== 
+Player: [2, 2] : 4
+Dealer: [2, 2] : 4
+Cards remaining in deck: 48 cards
+
+Hands After Players Turn: 
+==== Blackjack Game State ==== 
+Player: [2, 2, 3, 3, 3, 3, 4, 4] : 24
+Dealer: [2, 2] : 4
+Cards remaining in deck: 42 cards
+
+Player busts. Dealer takes the win.
+
+Final Hands: 
+==== Blackjack Game State ==== 
+Player: [2, 2, 3, 3, 3, 3, 4, 4] : 24
+Dealer: [2, 2] : 4
+Cards remaining in deck: 42 cards
+
+Final Result: Dealer Wins!
+
+Starting new game... Get Ready.
+
+Initial Hands: 
+==== Blackjack Game State ==== 
+Player: [4, 4] : 8
+Dealer: [5, 5] : 10
+Cards remaining in deck: 38 cards
+
+Hands After Players Turn: 
+==== Blackjack Game State ==== 
+Player: [4, 4, 5, 5, 6] : 24
+Dealer: [5, 5] : 10
+Cards remaining in deck: 35 cards
+
+Player busts. Dealer takes the win.
+
+Final Hands: 
+==== Blackjack Game State ==== 
+Player: [4, 4, 5, 5, 6] : 24
+Dealer: [5, 5] : 10
+Cards remaining in deck: 35 cards
+
+Final Result: Dealer Wins!
+
+Starting new game... Get Ready.
+
+Initial Hands: 
+==== Blackjack Game State ==== 
+Player: [6, 6] : 12
+Dealer: [6, 7] : 13
+Cards remaining in deck: 31 cards
+
+Hands After Players Turn: 
+==== Blackjack Game State ==== 
+Player: [6, 6, 7, 7] : 26
+Dealer: [6, 7] : 13
+Cards remaining in deck: 29 cards
+
+Player busts. Dealer takes the win.
+
+Final Hands: 
+==== Blackjack Game State ==== 
+Player: [6, 6, 7, 7] : 26
+Dealer: [6, 7] : 13
+Cards remaining in deck: 29 cards
+
+Final Result: Dealer Wins!
+
+ Player wins 0 times
+ Dealer wins 3 times
+ Both player and dealer ties 0 times
+======= End of Result ======
